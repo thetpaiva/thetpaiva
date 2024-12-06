@@ -2,7 +2,8 @@
 - I start programming in graduation has a hobby
 - But today my goal is to find a job as a programmer
 - In the current time, i'm learning python
-
+- Finishing my master's degree in bioinformatics (Using python and R)
+- Starting to learn Rust...
 <!---
 thetpaiva/thetpaiva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
